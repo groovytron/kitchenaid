@@ -1,2 +1,3 @@
-# kitchenaid
-Personnal cooking recipes
+# Kitchenaid
+
+Personnal cooking recipes.
