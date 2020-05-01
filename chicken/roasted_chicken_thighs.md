@@ -52,3 +52,5 @@ This recipe is for 2 to 3 people.
 
 1. Put the pan containing the vegetables in the oven (pre-heated at 190 °C fanned air) and let it cook for 15 minutes.
 2. Add the zucchini slices and the chicken thighs in the pan and put it back in the oven to let it cook for approximately 25 minutes. _You can pour the rest of the chicken sauce on the chickend thighs and the vegetables._
+
+If you want to add more sauce to the meal, you can make an [aïoli garlic sauce](/sauces/aioli_sauce.md).
